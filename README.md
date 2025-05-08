@@ -38,7 +38,7 @@ Shell scripts are used everywhere: from embedded systems to server automation, f
   ```
 - Open the file using a text editor (like `nano`, `vim`, or any other):
   ```bash
-  nano hello
+  vim hello
   ```
 - Add the following content:
   ```bash
@@ -81,7 +81,7 @@ Shell scripts are used everywhere: from embedded systems to server automation, f
 - Create a new file called `sum`:
   ```bash
   touch sum
-  nano sum
+  vim sum
   ```
 - Add the following content:
   ```bash
