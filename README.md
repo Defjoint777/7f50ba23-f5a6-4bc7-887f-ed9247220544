@@ -105,8 +105,12 @@ Shell scripts are used everywhere: from embedded systems to server automation, f
 ## Questions
 
 1. Why do we need the `#!/bin/bash` line in our script?
-2. What does the `chmod +x` command actually do?
-4. What does `$1`, `$2`, ... mean in a shell script?
+   shebang tells the system which interpreter should be used to execute the file.
+   
+3. What does the `chmod +x` command actually do?
+   makes the file executable 
+5. What does `$1`, `$2`, ... mean in a shell script?
+   its allows as to pass the values as an argument 
 
 ---
 
